@@ -1,0 +1,3 @@
+D:/SimFisicas_CHM/Sim_Fisicas_CHM/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir
+D:/SimFisicas_CHM/Sim_Fisicas_CHM/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/SimFisicas_CHM/Sim_Fisicas_CHM/hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
