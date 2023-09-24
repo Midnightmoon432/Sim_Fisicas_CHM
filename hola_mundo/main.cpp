@@ -1,9 +1,9 @@
 #include <iostream>
-#include <box2d/box2d.h>
+#include <Box2d/Box2d.h>
 
 int main() {
     //Creacion del mundo y de la gravedad
-    b2Vec2 gravity(0.0f, -0.81f);
+    b2Vec2 gravity(0.0f, -9.81f);
     b2World world(gravity);
 
     //Caracteristicas del cuerpo

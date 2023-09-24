@@ -1,0 +1,4 @@
+C:\Users\carlo\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/carlo/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\carlo\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S D:\SimFisicas_CHM\Sim_Fisicas_CHM\hola_jupiter -B D:\SimFisicas_CHM\Sim_Fisicas_CHM\hola_jupiter\cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/SimFisicas_CHM/Sim_Fisicas_CHM/hola_jupiter/cmake-build-debug
